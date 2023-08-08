@@ -1,3 +1,9 @@
+This task management web app is developed using React for both the front end and back end, creating a cohesive and user-friendly experience. The application allows users to organize, track, and manage their tasks efficiently. One of the standout features includes a search function, enabling users to quickly search through their tasks to find specific items. Additionally, a counter is incorporated to keep track of how many tasks have been completed, offering an at-a-glance view of progress. Whether for personal use or team collaboration, this app is designed to enhance productivity and keep tasks organized and accessible.
+
+Preview:
+
+![Screenshot 2023-08-08 at 8 28 58 PM](https://github.com/mmc03-ucb/Task-Manager/assets/70145981/2c55c8a7-bbc0-4b4d-adca-14316942ed48)
+
 # mern-tailwind-vivid-starter
 A starter repository with React, Tailwind, Vivid, and Express set up
 
