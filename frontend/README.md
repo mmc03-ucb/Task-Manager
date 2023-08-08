@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This task management web app is developed using React for both the front end and back end, creating a cohesive and user-friendly experience. The application allows users to organize, track, and manage their tasks efficiently. One of the standout features includes a search function, enabling users to quickly search through their tasks to find specific items. Additionally, a counter is incorporated to keep track of how many tasks have been completed, offering an at-a-glance view of progress. Whether for personal use or team collaboration, this app is designed to enhance productivity and keep tasks organized and accessible.
 
 ## Available Scripts
 
